@@ -6,3 +6,4 @@ Forsblom L, Jernberg S, Kuosa H, Kostamo K, Gustafsson C, Virtanen EA (2025) Int
 
 The species data that support the findings of this study are openly available in Zenodo: [https://doi.org/10.5281/zenodo.13822191](https://doi.org/10.5281/zenodo.13822191)
 
+IP-41 Maps of regulating ecosystem services © 2026 by Forsblom et al. is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
